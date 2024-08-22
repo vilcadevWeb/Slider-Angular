@@ -1,0 +1,15 @@
+
+
+.my-margin-button{
+  transition: opacity 0.3s ease-in-out;
+  opacity: 0;
+}
+
+.my-margin-card:hover .my-margin-button{
+  opacity: 1;
+}
+
+.my-hover-class:hover{
+  outline: rgb(249, 249, 249) solid 3px;
+  outline-offset: 3px;
+}
